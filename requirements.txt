@@ -1,0 +1,7 @@
+joblib
+mealpy
+numba
+numpy
+pandas
+scikit-learn
+ucimlrepo
