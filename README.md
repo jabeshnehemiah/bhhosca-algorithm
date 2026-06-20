@@ -1,4 +1,4 @@
-# BH-HOSCA Feature Selection Script
+# BHHOSCA Feature Selection Script
 
 This project now includes a standalone Python script, `algorithm.py`, that runs the notebook logic for the single `bHHOSCA` algorithm without opening Jupyter.
 
